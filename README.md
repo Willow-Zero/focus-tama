@@ -4,3 +4,6 @@ focus-tama is a tamagatchi-like pet-tending program intended to aid in focus, bo
 
 ## CURRENT STATE
 early. as i write this there is no code yet, im building this from scratchin python.
+
+
+I release this code under CC-BY-SA 4.0
